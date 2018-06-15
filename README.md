@@ -1,6 +1,5 @@
 # EchoLinkNodeJS
 
-# ImageDistributed
 Storing images and text on distributed networks
 
 ## Running locally
