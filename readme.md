@@ -1,5 +1,5 @@
 # ImageDistributed
-Storing images and text on distributed networks
+Storing educational credentials and professional information including images and text on distributed networks
 
 ## Running locally
 
