@@ -1,0 +1,8 @@
+build
+node_modules
+yarn-error.log
+.idea
+build_webpack/
+.firebaserc
+firebase.json
+.DS_Store

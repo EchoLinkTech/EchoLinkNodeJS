@@ -1,0 +1,15 @@
+(c) Copyright 2018 DLT Labs, all rights reserved, for the following:
+
+	* ./contracts/Postingstore.sol
+	* ./contracts/ExperienceStore.sol
+	* ./migrations/2_deploy_contracts.js
+	* ./src/components/addExperience.js
+	* ./src/components/AddExperineceNew.js
+	* ./src/components/QueryPosting.js
+	* ./src/components/SubmitPosting.js
+	* ./src/components/ShowQueryByRecruiter.js
+	* ./src/components/transactionReceipt.js
+
+And the content between <start> and <end> tags of following files:
+	* ./App.js
+
